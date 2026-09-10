@@ -17,6 +17,18 @@ The Android interface displays the live simulation stream while providing touch-
   <em>Normal operation and emergency (SOS) state during Unity co-simulation.</em>
 </p>
 
+## Cross-Simulation Demonstration
+
+The UDP-based controller architecture was also prototyped with an Unreal Engine UAV simulation during an earlier development stage.
+
+This experiment demonstrates that the mobile controller and network communication approach are not tied to a specific vehicle or simulation engine. The same general architecture was used to control a simulated UAV in Unreal Engine while receiving the simulation view on the Android device.
+
+This repository contains the BlueROV2 / Unity-oriented version of the controller.
+
+### Unreal Engine UAV Prototype
+
+[▶ Watch the UAV simulation demo](docs/media/unreal_uav_demo.mp4)
+
 ## Features
 
 - Android controller interface written in Kotlin
