@@ -1,14 +1,14 @@
-﻿plugins {
+plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
 }
 
 android {
-    namespace = "com.example.test"
+    namespace = "com.eranaydogan.bluerov2controller"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.test"
+        applicationId = "com.eranaydogan.bluerov2controller"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

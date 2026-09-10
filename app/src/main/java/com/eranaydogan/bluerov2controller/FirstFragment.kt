@@ -1,4 +1,4 @@
-package com.example.test
+package com.eranaydogan.bluerov2controller
 
 import android.animation.AnimatorSet
 import android.animation.ObjectAnimator
@@ -18,7 +18,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
-import com.example.test.databinding.FragmentFirstBinding
+import com.eranaydogan.bluerov2controller.databinding.FragmentFirstBinding
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay

@@ -1,4 +1,4 @@
-package com.example.test
+package com.eranaydogan.bluerov2controller
 
 import org.junit.Test
 

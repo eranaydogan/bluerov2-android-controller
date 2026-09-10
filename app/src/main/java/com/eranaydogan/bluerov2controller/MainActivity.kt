@@ -1,8 +1,8 @@
-﻿package com.example.test
+package com.eranaydogan.bluerov2controller
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.test.databinding.ActivityMainBinding
+import com.eranaydogan.bluerov2controller.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -14,7 +14,7 @@
 <fragment
     android:id="@+id/FirstFragment"
     android:layout_width="match_parent"
-    android:name="com.example.test.FirstFragment"
+    android:name="com.eranaydogan.bluerov2controller.FirstFragment"
     android:layout_height="match_parent"/>
 
 
