@@ -4,6 +4,19 @@ Android-based remote control and video monitoring interface developed for a dist
 
 The application provides low-latency UDP video playback, touch-based vehicle motion commands, simulated pose generation, haptic feedback, and an emergency signaling mechanism for communication with a Unity-based simulation host.
 
+## Demo
+
+The Android interface displays the live simulation stream while providing touch-based vehicle control and emergency signaling.
+
+<p align="center">
+  <img src="docs/media/controller_normal.jpeg" width="49%" alt="BlueROV2 Android controller in normal operation">
+  <img src="docs/media/controller_emergency.jpeg" width="49%" alt="BlueROV2 Android controller with emergency mode active">
+</p>
+
+<p align="center">
+  <em>Normal operation and emergency (SOS) state during Unity co-simulation.</em>
+</p>
+
 ## Features
 
 - Android controller interface written in Kotlin
